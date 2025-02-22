@@ -4,8 +4,8 @@
  * 注意：使用ideaTALK 时，需手动选择 gemini-2.0-pro 模型，识别图片效果更好。
  * 
  * 使用方法：
- * > node parseImages.js kimi /path/to/meituan_main_search_光子嫩肤_2025-02-20_20:17:19
- * > node parseImages.js ideaTALK /path/to/meituan_main_search_光子嫩肤_2025-02-20_20:17:19
+ * > node parseImages.js kimi /path/to/your_folder
+ * > node parseImages.js ideaTALK /path/to/your_folder
  */
 
 const fs = require("fs").promises;
